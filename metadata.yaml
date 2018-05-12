@@ -1,0 +1,29 @@
+_repo: '------------------_32304'
+_version: 0.1.0
+alternative_title: Love (trilogy)
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Christovasilis, Christos
+    alias: Χρηστοβασίλης, Χρήστος
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '35788'
+    url: http://www.gutenberg.org/2009/agents/35788
+    wikipedia: http://en.wikipedia.org/wiki/Christos_Christovasilis
+description: ''
+gutenberg_issued: '2010-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32304'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek literature, Modern'
+- !lcc 'PA'
+title: Η αγάπη (Τριλογία)
+url: http://www.gutenberg.org/ebooks/32304
